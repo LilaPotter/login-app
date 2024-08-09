@@ -31,7 +31,7 @@ export class LoginComponent {
       if (response.success) {
         // Redirige al usuario a la página principal o muestra un mensaje de éxito
       } else {
-        // Muestra un mensaje de error
+        
       }
     });
   }
