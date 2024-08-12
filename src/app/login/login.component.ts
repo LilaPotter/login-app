@@ -4,7 +4,7 @@ import { FormsModule } from '@angular/forms';
 import { HttpClientModule } from '@angular/common/http';
 
 import { Component } from '@angular/core';
-import { AuthService } from '../auth.service';
+import { AuthService } from '../servicios/auth.service';
 
 
 @Component({
